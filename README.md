@@ -1,13 +1,13 @@
 # dotfiles
 - distro: arch
-- terminal: kitty
-- launcher/powermenu: rofi, themes from [here](https://github.com/adi1090x/rofi)
-- dock: latte-dock
-- tiling manager: bismuth
-- lockscreen: betterlockscreen
-- pdf viewer: zathura
-- system monitor: gotop
-- dependency graph: pacwall
+- terminal: [kitty](https://github.com/kovidgoyal/kitty)
+- launcher/powermenu: [rofi](https://github.com/davatorium/rofi), themes from [here](https://github.com/adi1090x/rofi)
+- dock: [latte-dock](https://github.com/KDE/latte-dock)
+- tiling manager: [bismuth](https://github.com/Bismuth-Forge/bismuth)
+- lockscreen: [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)
+- document viewer: [zathura](https://pwmt.org/projects/zathura/)
+- system monitor: [gotop](https://github.com/xxxserxxx/gotop)
+- dependency graph: [pacwall](https://github.com/Kharacternyk/pacwall)
 - discord theme: [zelk](https://github.com/schnensch0/zelk)
 - spotify theme: [sleek](https://github.com/morpheusthewhite/spicetify-themes)
 - startpage: [serenity](https://www.reddit.com/r/unixporn/comments/kqu6s1/bspwm_serenity/)  
