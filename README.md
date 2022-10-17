@@ -25,7 +25,7 @@ You may need to change some configs to be unique to your system if you want to u
 ![startpage](images/startpage.png)
 ![spotify-discord](images/spotify.png)
 ![zathura-typora](images/zathura.png)
-![gotop](images/gotop.png)
+<!-- ![gotop](images/gotop.png) -->
 ![pacwall](images/pacwall.png)
 ![launcher](images/launcher.png)
 ![powermenu](images/powermenu.png)
