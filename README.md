@@ -23,7 +23,9 @@ You may need to change some configs to be unique to your system if you want to u
 # Screenshots
 ![terminal](images/kitty.png)
 ![startpage](images/startpage.png)
+<!---
 ![spotify-discord](images/spotify.png)
+-->
 ![zathura-typora](images/zathura.png)
 ![gotop](images/gotop.png)
 ![pacwall](images/pacwall.png)
