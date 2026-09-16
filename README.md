@@ -18,7 +18,7 @@ Image sources:
 [flower](https://twitter.com/kogaya7/status/1459816270119899141)
 
 Overarching theme is [rose-pine](https://github.com/rose-pine), discord theme is done through css injection, and spotify is themed with spicetify-cli  
-You may need to change some configs to be unique to your system if you want to use any part for yourself
+
 
 # Screenshots
 ![terminal](images/kitty.png)
